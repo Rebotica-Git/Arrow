@@ -1,0 +1,18 @@
+* {
+    font-family: 'Cambria Math', sans-serif;
+}
+
+body {
+    background-color: #202020;
+    color: #ffffff;
+}
+
+.main {
+    text-align: center;
+}
+
+.result {
+    margin-top: 25px;
+    text-align: center;
+    white-space: pre-wrap;
+}
